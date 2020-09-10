@@ -712,12 +712,12 @@ section.lazy-placeholder:after {
 }
 .cid-sa9y27nMRr .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-sa9y27nMRr .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-sa9y27nMRr a {
   font-style: normal;
@@ -808,7 +808,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-sa9y27nMRr .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1118,7 +1118,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sa9ye2rYoh {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/capitulo10a-2000x2749.jpg");
 }
 .cid-sa9ye2rYoh .icons-media-container {
   display: flex;
@@ -1142,4 +1142,101 @@ section.lazy-placeholder:after {
 }
 .cid-sa9ye2rYoh .card {
   padding-bottom: 1.5rem;
+}
+.cid-sa9G8cW4y6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mama-emba-715x424.png");
+}
+.cid-sa9G8cW4y6 .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-sa9G8cW4y6 .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-sa9G8cW4y6 .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-sa9G8cW4y6 .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+}
+@media (max-width: 991px) {
+  .cid-sa9G8cW4y6 .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sa9G8cW4y6 .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-sa9G8cW4y6 .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-sa9G8cW4y6 .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-sa9G8cW4y6 .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-sa9G8cW4y6 .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-sa9G8cW4y6 .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-sa9G8cW4y6 .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-sa9G8cW4y6 .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-sa9GAQW2Hf {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/embarazada-covid-19-guatemala-soy502-940x627.jpg");
+}
+.cid-sa9GAQW2Hf .title {
+  margin-bottom: 2rem;
+}
+.cid-sa9GAQW2Hf .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-sa9GAQW2Hf a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-sa9GAQW2Hf a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-sa9GAQW2Hf textarea.form-control {
+  min-height: 188px;
 }
